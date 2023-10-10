@@ -1,4 +1,0 @@
-# Data augmentation
-skweak==0.2.13
-hmmlearn==0.2.6
-nlpaug

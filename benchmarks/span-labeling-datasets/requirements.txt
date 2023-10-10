@@ -1,4 +1,0 @@
-spacy
-typer
-wasabi
-pandas
